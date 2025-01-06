@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Exploring in ** FRONT_END  **
 
-- 💬 Ask me about **DSA, React, Java, DevOps, Python, Cloud Computing **
+- 💬 Ask me about ** DSA, JAVA, JavaScript, React, Python **
 
 - 📫 How to reach me **anubhavkumar406@gmail.com**
 

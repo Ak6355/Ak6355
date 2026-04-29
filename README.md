@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
-<h3 align="center">Software Engineer | Building Scalable, Growth-Driven Applications</h3>
+<h3 align="center">Software Engineer | Building Scalable, Growth-Driven Ai Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ak6355&label=Profile%20views&color=0e75b6&style=flat" alt="ak6355" />

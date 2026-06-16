@@ -10,16 +10,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+at+Zieers+Systems;Building+LLM-Powered+Applications;Generative+AI+%7C+RAG+%7C+AI+Agents;Working+on+LexQ%CF%80+Legal+Intelligence+Platform;Processing+20M%2B+Indian+Court+Judgments;Building+Real-World+Scalable+GenAI+Systems" alt="Typing SVG" />
 </p>
 
-<!-- ===================== Profile Badges ===================== -->
+<!-- ===================== Profile Views ===================== -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ak6355&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Role-AI%20Engineer-00D9FF?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-7B2CBF?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Domain-Legal%20AI-2C5364?style=for-the-badge" alt="Domain" />
 </p>
 
-<!-- ===================== Contact Badges ===================== -->
+<!-- ===================== Contact Links ===================== -->
 
 <p align="center">
   <a href="mailto:anubhavkumar406@gmail.com">
@@ -64,15 +61,6 @@ My work involves designing **AI workflows**, integrating **Large Language Models
 
 <h2 align="center">🧠 What I Work On</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM%20Applications-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-7B2CBF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF5733?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-0E7490?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Legal%20NLP-2E86C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-5B21B6?style=for-the-badge" />
-</p>
-
 * 🤖 Building **LLM-powered applications** and **Generative AI systems**
 * 🔎 Designing **RAG pipelines** using hybrid search and vector databases
 * ⚖️ Working on **Legal NLP** and Indian legal intelligence systems
@@ -86,13 +74,6 @@ My work involves designing **AI workflows**, integrating **Large Language Models
 <!-- ===================== Current Project ===================== -->
 
 <h2 align="center">⚖️ Current Project: LexQπ</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LexQ%CF%80-AI%20Legal%20Intelligence-020024?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/InLegalBERT-Legal%20Text%20Understanding-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mistral%207B-Generative%20Legal%20Responses-7B2CBF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QLoRA-Fine%20Tuning-FF6B6B?style=for-the-badge" />
-</p>
 
 ### LexQπ — AI-Powered Indian Legal Intelligence Platform
 
@@ -112,19 +93,29 @@ My work includes:
 
 <br/>
 
-<!-- ===================== AI Architecture ===================== -->
+<!-- ===================== AI System Architecture ===================== -->
 
 <h2 align="center">🧩 AI System Architecture</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Legal%20Documents-Input-34495E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OCR-Text%20Extraction-117A65?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cleaning-Preprocessing-FFB703?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chunking-Corpus%20Preparation-FF5733?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20DB-Qdrant%20%7C%20ChromaDB-5B21B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Legal%20QA-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-Response%20Generation-7B2CBF?style=for-the-badge" />
-</p>
+```text
+Legal Documents
+      ↓
+OCR Extraction
+      ↓
+Text Cleaning & Preprocessing
+      ↓
+Chunking & Metadata Preparation
+      ↓
+Vector Database Storage
+      ↓
+Hybrid Search
+      ↓
+RAG Pipeline
+      ↓
+LLM Response Generation
+      ↓
+Legal Question Answering
+```
 
 <br/>
 
@@ -136,28 +127,40 @@ My work includes:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI Tools" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Mistral%207B-000000?style=for-the-badge" alt="Mistral 7B" />
-  <img src="https://img.shields.io/badge/InLegalBERT-2E86C1?style=for-the-badge" alt="InLegalBERT" />
-  <img src="https://img.shields.io/badge/QLoRA-8E44AD?style=for-the-badge" alt="QLoRA" />
-  <img src="https://img.shields.io/badge/RAG-FF5733?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI%20Agents-0E7490?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-16A085?style=for-the-badge" alt="Prompt Engineering" />
 </p>
+
+* Python
+* PyTorch
+* TensorFlow
+* Hugging Face Transformers
+* LangChain
+* OpenAI API
+* Mistral 7B
+* InLegalBERT
+* QLoRA
+* RAG
+* Prompt Engineering
+* AI Agents
+
+<br/>
 
 <h3 align="left">🗄️ Vector Databases / Backend / Data</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,docker,git,github" alt="Backend Tools" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/OCR%20Pipelines-34495E?style=for-the-badge" alt="OCR Pipelines" />
-  <img src="https://img.shields.io/badge/Dataset%20Preparation-117A65?style=for-the-badge" alt="Dataset Preparation" />
-  <img src="https://img.shields.io/badge/Corpus%20Building-2C5364?style=for-the-badge" alt="Corpus Building" />
 </p>
+
+* Qdrant
+* ChromaDB
+* MySQL
+* REST API Development
+* OCR Pipelines
+* Dataset Preparation
+* Corpus Building
+* Git
+* Docker Basics
+
+<br/>
 
 <h3 align="left">🌐 Full Stack / Programming</h3>
 
@@ -165,19 +168,30 @@ My work includes:
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,next,nodejs,html,css,tailwind,bootstrap,c,vscode" alt="Full Stack Tools" />
 </p>
 
+* Java
+* JavaScript
+* TypeScript
+* React.js
+* Next.js
+* Node.js
+* HTML
+* CSS
+* Tailwind CSS
+* Bootstrap
+* C
+* VS Code
+
 <br/>
 
 <!-- ===================== Currently Strengthening ===================== -->
 
 <h2 align="center">📌 Currently Strengthening</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-Advanced%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/LlamaIndex-RAG%20Framework-6C63FF?style=for-the-badge" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/Streamlit-AI%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/MLflow-MLOps-0194E2?style=for-the-badge" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Kubernetes-Deployment-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
+* TensorFlow for advanced machine learning
+* LlamaIndex for advanced RAG applications
+* Streamlit for AI application development
+* MLflow for experiment tracking and MLOps
+* Kubernetes for scalable deployment
 
 <br/>
 
@@ -185,16 +199,15 @@ My work includes:
 
 <h2 align="center">💡 Ask Me About</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-7B2CBF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF5733?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-0E7490?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Legal%20NLP-2E86C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-5B21B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-16A085?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20APIs-02569B?style=for-the-badge" />
-</p>
+* Large Language Models
+* Generative AI Applications
+* RAG Pipelines
+* AI Agents
+* Legal NLP
+* Vector Databases
+* Prompt Engineering
+* Backend API Development
+* Full-Stack AI Applications
 
 <br/>
 

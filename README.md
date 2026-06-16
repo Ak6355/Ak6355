@@ -1,7 +1,7 @@
 <!-- ===================== Animated Header ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=230&section=header&text=Hi%20There%20👋%20I'm%20Anubhav%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20Generative%20AI%20%7C%20RAG%20%7C%20AI%20Agents%20%7C%20Legal%20Intelligence&descAlignY=58&descSize=16" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=230&section=header&text=Hi%20There%20%F0%9F%91%8B%20I'm%20Anubhav%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20Generative%20AI%20%7C%20RAG%20%7C%20AI%20Agents%20%7C%20Legal%20Intelligence&descAlignY=58&descSize=16" alt="Header" />
 </p>
 
 <!-- ===================== Typing Animation ===================== -->
@@ -16,14 +16,24 @@
   <img src="https://komarev.com/ghpvc/?username=ak6355&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- ===================== Contact Info ===================== -->
+<!-- ===================== Connect With Me ===================== -->
 
-<h3 align="center">📫 Connect With Me</h3>
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <b>Email:</b> anubhavkumar406@gmail.com <br/>
-  <b>LinkedIn:</b> linkedin.com/in/anubhav-kumar-045676230 <br/>
-  <b>Portfolio:</b> 678543d7fb20844d65651183--incandescent-sherbet-3a2266.netlify.app
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Tap+below+to+connect+with+me;Open+for+AI+Engineering+Roles;Open+for+LLM+%7C+RAG+%7C+GenAI+Projects;Let's+build+something+intelligent+together" alt="Connect Animation" />
+</p>
+
+<p align="center">
+  <a href="mailto:anubhavkumar406@gmail.com">
+    <img src="https://img.shields.io/badge/Tap%20to%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Tap to Email" />
+  </a>
+  <a href="https://linkedin.com/in/anubhav-kumar-045676230" target="_blank">
+    <img src="https://img.shields.io/badge/Tap%20to%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tap to Connect on LinkedIn" />
+  </a>
+  <a href="https://678543d7fb20844d65651183--incandescent-sherbet-3a2266.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Tap%20to%20View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Tap to View Portfolio" />
+  </a>
 </p>
 
 <br/>
@@ -95,23 +105,23 @@ My work includes:
 <h2 align="center">🧩 AI System Architecture</h2>
 
 <p align="center">
-  Legal Documents  
+  <b>Legal Documents</b>
   <br/>⬇️<br/>
-  OCR Extraction  
+  <b>OCR Extraction</b>
   <br/>⬇️<br/>
-  Text Cleaning & Preprocessing  
+  <b>Text Cleaning & Preprocessing</b>
   <br/>⬇️<br/>
-  Chunking & Metadata Preparation  
+  <b>Chunking & Metadata Preparation</b>
   <br/>⬇️<br/>
-  Vector Database Storage  
+  <b>Vector Database Storage</b>
   <br/>⬇️<br/>
-  Hybrid Search  
+  <b>Hybrid Search</b>
   <br/>⬇️<br/>
-  RAG Pipeline  
+  <b>RAG Pipeline</b>
   <br/>⬇️<br/>
-  LLM Response Generation  
+  <b>LLM Response Generation</b>
   <br/>⬇️<br/>
-  Legal Question Answering
+  <b>Legal Question Answering</b>
 </p>
 
 <br/>

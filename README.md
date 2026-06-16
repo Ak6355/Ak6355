@@ -1,13 +1,13 @@
 <!-- ===================== Animated Header ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=230&section=header&text=Hi%20There%20👋%20I'm%20Anubhav%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20Generative%20AI%20%7C%20RAG%20%7C%20AI%20Agents%20%7C%20Legal%20Intelligence&descAlignY=58&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=230&section=header&text=Hi%20There%20👋%20I'm%20Anubhav%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20Generative%20AI%20%7C%20RAG%20%7C%20AI%20Agents%20%7C%20Legal%20Intelligence&descAlignY=58&descSize=16" alt="Header" />
 </p>
 
 <!-- ===================== Typing Animation ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+at+Zieers+Systems;Building+LLM-Powered+Applications;Generative+AI+%7C+RAG+%7C+AI+Agents;Working+on+LexQ%CF%80+Legal+Intelligence+Platform;Processing+20M%2B+Indian+Court+Judgments;Building+Real-World+Scalable+GenAI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+at+Zieers+Systems;Building+LLM-Powered+Applications;Generative+AI+%7C+RAG+%7C+AI+Agents;Working+on+LexQ%CF%80+Legal+Intelligence+Platform;Processing+20M%2B+Indian+Court+Judgments;Building+Real-World+Scalable+GenAI+Systems" alt="Typing Animation" />
 </p>
 
 <!-- ===================== Profile Views ===================== -->
@@ -16,18 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=ak6355&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- ===================== Contact Links ===================== -->
+<!-- ===================== Contact Info ===================== -->
+
+<h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
-  <a href="mailto:anubhavkumar406@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anubhavkumar406%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/anubhav-kumar-045676230" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://678543d7fb20844d65651183--incandescent-sherbet-3a2266.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <b>Email:</b> anubhavkumar406@gmail.com <br/>
+  <b>LinkedIn:</b> linkedin.com/in/anubhav-kumar-045676230 <br/>
+  <b>Portfolio:</b> 678543d7fb20844d65651183--incandescent-sherbet-3a2266.netlify.app
 </p>
 
 <br/>
@@ -57,7 +53,7 @@ My work involves designing **AI workflows**, integrating **Large Language Models
 
 <br/>
 
-<!-- ===================== Work Highlights ===================== -->
+<!-- ===================== AI Focus ===================== -->
 
 <h2 align="center">🧠 What I Work On</h2>
 
@@ -68,6 +64,7 @@ My work involves designing **AI workflows**, integrating **Large Language Models
 * 🗂️ Preparing large-scale legal datasets for retrieval and fine-tuning
 * ⚙️ Building backend APIs for production-ready AI products
 * 📈 Improving retrieval quality, model accuracy, and response reliability
+* 🚀 Building scalable, production-ready GenAI systems
 
 <br/>
 
@@ -75,7 +72,7 @@ My work involves designing **AI workflows**, integrating **Large Language Models
 
 <h2 align="center">⚖️ Current Project: LexQπ</h2>
 
-### LexQπ — AI-Powered Indian Legal Intelligence Platform
+<h3 align="center">AI-Powered Indian Legal Intelligence Platform</h3>
 
 **LexQπ** is an AI-powered legal intelligence platform focused on improving Indian legal research, judgment retrieval, and legal question answering.
 
@@ -93,29 +90,29 @@ My work includes:
 
 <br/>
 
-<!-- ===================== AI System Architecture ===================== -->
+<!-- ===================== AI System Flow ===================== -->
 
 <h2 align="center">🧩 AI System Architecture</h2>
 
-```text
-Legal Documents
-      ↓
-OCR Extraction
-      ↓
-Text Cleaning & Preprocessing
-      ↓
-Chunking & Metadata Preparation
-      ↓
-Vector Database Storage
-      ↓
-Hybrid Search
-      ↓
-RAG Pipeline
-      ↓
-LLM Response Generation
-      ↓
-Legal Question Answering
-```
+<p align="center">
+  Legal Documents  
+  <br/>⬇️<br/>
+  OCR Extraction  
+  <br/>⬇️<br/>
+  Text Cleaning & Preprocessing  
+  <br/>⬇️<br/>
+  Chunking & Metadata Preparation  
+  <br/>⬇️<br/>
+  Vector Database Storage  
+  <br/>⬇️<br/>
+  Hybrid Search  
+  <br/>⬇️<br/>
+  RAG Pipeline  
+  <br/>⬇️<br/>
+  LLM Response Generation  
+  <br/>⬇️<br/>
+  Legal Question Answering
+</p>
 
 <br/>
 
@@ -125,61 +122,49 @@ Legal Question Answering
 
 <h3 align="left">🤖 AI / Machine Learning / LLMs</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI Tools" />
+<p>
+  <b>Languages & Frameworks:</b> Python, PyTorch, TensorFlow, Hugging Face Transformers, LangChain
 </p>
 
-* Python
-* PyTorch
-* TensorFlow
-* Hugging Face Transformers
-* LangChain
-* OpenAI API
-* Mistral 7B
-* InLegalBERT
-* QLoRA
-* RAG
-* Prompt Engineering
-* AI Agents
+<p>
+  <b>LLMs & Fine-Tuning:</b> OpenAI API, Mistral 7B, InLegalBERT, QLoRA, Prompt Engineering
+</p>
+
+<p>
+  <b>AI Systems:</b> RAG Pipelines, AI Agents, Generative AI Applications, Legal NLP, Intelligent Automation
+</p>
 
 <br/>
 
 <h3 align="left">🗄️ Vector Databases / Backend / Data</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github" alt="Backend Tools" />
+<p>
+  <b>Vector Databases:</b> Qdrant, ChromaDB
 </p>
 
-* Qdrant
-* ChromaDB
-* MySQL
-* REST API Development
-* OCR Pipelines
-* Dataset Preparation
-* Corpus Building
-* Git
-* Docker Basics
+<p>
+  <b>Backend & Database:</b> REST API Development, MySQL, Git, Docker Basics
+</p>
+
+<p>
+  <b>Data Engineering:</b> OCR Pipelines, Dataset Preparation, Text Cleaning, Chunking, Corpus Building, Metadata Preparation
+</p>
 
 <br/>
 
-<h3 align="left">🌐 Full Stack / Programming</h3>
+<h3 align="left">💻 Programming & Development</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,next,nodejs,html,css,tailwind,bootstrap,c,vscode" alt="Full Stack Tools" />
+<p>
+  <b>Programming:</b> Java, JavaScript, TypeScript, C, Python
 </p>
 
-* Java
-* JavaScript
-* TypeScript
-* React.js
-* Next.js
-* Node.js
-* HTML
-* CSS
-* Tailwind CSS
-* Bootstrap
-* C
-* VS Code
+<p>
+  <b>Frontend Basics:</b> React.js, Next.js, HTML, CSS, Tailwind CSS, Bootstrap
+</p>
+
+<p>
+  <b>Tools:</b> VS Code, GitHub, Git, Docker Basics
+</p>
 
 <br/>
 
@@ -208,16 +193,6 @@ Legal Question Answering
 * Prompt Engineering
 * Backend API Development
 * Full-Stack AI Applications
-
-<br/>
-
-<!-- ===================== GitHub Trophies ===================== -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ak6355&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
 
 <br/>
 
@@ -263,5 +238,5 @@ Legal Question Answering
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=140&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=140&section=footer" alt="Footer" />
 </p>
